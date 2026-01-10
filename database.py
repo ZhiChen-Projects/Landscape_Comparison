@@ -8,7 +8,7 @@ LANDMARKS = {
     "Dubai_Palm_Islands": "24.9,54.8,25.2,55.2",
     "Amazon_Deforestation": "-11,-64,-8,-61",
     "Las_Vegas_Growth": "35.8,-115.5,36.4,-114.8",
-    #"Grand_Canyon": "35.8,-114.0,36.5,-112.0" 
+    "Grand_Canyon": "35.8,-114.0,36.5,-112.0" 
 }
 
 def load_landmarks():
