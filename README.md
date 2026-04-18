@@ -10,7 +10,7 @@ I implemented a .JSON file for our database to keep track of each individual lan
   - Pixel Subtraction is poorly done because of how sensitive the picture can be from misalignment, clouds, time of day, and more.
   - Currently thinking of neural network, SVM and some other machine learning, but those are often slow in runtime.
 - Look for a bigger database
-  - In hopes to no longer stored locally.
+  - In hopes of storing data locally to a more live database like SQL.
 - Make it more user friendly so users don't have to look up the BBOX of the landmark
   - Might implement some sort of chatbox or redesign the entire format
 
