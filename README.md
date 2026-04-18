@@ -1,3 +1,4 @@
+#Landscape Comparison
 Interested in climate change, I wanted to do something to develop a program that allows us user to see the recent changes in our environment.
 
 This project uses GIBS API, a form of REST API, from NASA to fetch two images, and compare between the two. The comparison was done using Pixel Subtraction, which is pretty straight forward, it first calculate the numeric value of each pixel from one image to another and then subtracts them.
